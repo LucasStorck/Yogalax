@@ -1,8 +1,7 @@
 <div align="center">
-  <h1>VirtualR</h1>
-  <img src="https://github.com/user-attachments/assets/1e09a232-4ca8-4497-9852-a6e03e344cbc" height="400px" width="800px">
-  ![hero](https://github.com/user-attachments/assets/9320835e-8b40-4e9c-986d-6376a207c891)
-  <p>VirtualR é uma empresa fictícia de SaaS para desenvolvedores.</p>
+  <h1>Yogalax</h1>
+  <img src="https://github.com/user-attachments/assets/9320835e-8b40-4e9c-986d-6376a207c891" height="400px" width="800px">
+  <p>Yogalax é um rede fictícia de studios de Yoga</p>
   
 </div>
 <h1>Tecnologias</h1>
@@ -15,7 +14,7 @@
 <h1>Rodar Localmente</h1>
 <p>Para executar o pojeto localmente, siga-os os passos a baixo:</p>
 <h3>Clone o Projeto</h3>
-<pre>git clone https://github.com/LucasStorck/VirtualR.git</pre>
+<pre>git clone https://github.com/LucasStorck/Yogalax.git</pre>
 
 <h3>Istale as Depedências</h3>
 <pre>npm install</pre>
