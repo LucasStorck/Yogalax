@@ -23,6 +23,6 @@
 <pre>npm run dev</pre>
 
 <h1>Deploy</h1>
-<p>Para o deploy, eu utilizei a <b>Vercel</b>. Você pode acessar a página<a href="https://virtual-r-lovat-five.vercel.app/"> Aqui</a>.</p>
+<p>Para o deploy, eu utilizei a <b>Vercel</b>. Você pode acessar a página<a href="https://yoga-lax.vercel.app/"> Aqui</a>.</p>
 
 <p align="center"> - Desenvolvido por <b>Lucas Storck</b></p>
